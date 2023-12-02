@@ -1,14 +1,21 @@
 ## MVP Sistema de gerenciamento de estabelecimento
 
-Para nosso produto MVP, nos concentraremos em fornecer recursos básicos para autoatendimento e gestão de estabelecimentos, incluindo:
+Para nosso produto MVP, nos concentraremos em fornecer recursos básicos para e gestão de estoque, incluindo:
 
-- Login com CPF: O cliente precisa se identificar para que o seu pedido seja vinculado a ele.
-- Menu de produtos: O cliente deve poder visualizar o menu de produtos do estabelecimento.
-- Carrinho de compras: O cliente deve poder adicionar produtos ao carrinho de compras.
-- Pagamento: O cliente deve poder realizar o pagamento do pedido sem interação humana.
-- Dashboard do gestor: ele deve ser capaz de ter um mapeamento de suas mesas, status de atividade e status de pagamento.
-- Status do pedido: O cliente deve poder acompanhar o status do pedido.
-- Notificação de pedido pronto: O cliente deve ser notificado quando o pedido estiver pronto.
-- Guia de Implementação: O gestor deve ser capaz de entender como realizar a instalação de forma independente e eficaz
+- [x] Cadastro da empresa contratante.
+- [x] Autenticação da empresa contratante.
+- [ ] Dashboard da empresa com:
+  - [ ] Gráficos de lucros antes e depois de contratar nosso serviço.
+  - [ ] Gráficos de itens comprados com os melhores preços.
+  - [ ] Lucro rendido exclusivamente pela GerencyI.
+  - [ ] Tabela com lista de compras filtrada por dia, semana e mês.
+  - [ ] Dinheiro dentro da plataforma.
+- [ ] Capacidade de realizar novo pedido.
+- [ ] Capacidade de abrir reclamação sobre o pedido.
+- [ ] Capacidade de cancelar o pedido.
+- [ ] Realizar depósito para a plataforma.
+- [ ] Escolher entre meios de pagamento.
+- [ ] Visualizar notas fiscais.
+
 
  
