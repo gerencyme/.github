@@ -19,6 +19,8 @@ Para nosso produto MVP, nos concentraremos em fornecer recursos básicos para e 
 - [ ] Acompanhar status do pedido por meio de notificações.
 
  E para o fornecedor:
+- [x] Cadastro do fornecedor.
+- [x] Autenticação do fornecedor.
 - [ ] Visualizar/baixar/enviar por email notas fiscais.
 - [ ] Ser notificado de novos pedidos e status de pagamento do pedido.
 - [ ] Dashboard do fornecedor contendo:
