@@ -1,21 +1,28 @@
 ## MVP Sistema de gerenciamento de estabelecimento
 
-Para nosso produto MVP, nos concentraremos em fornecer recursos básicos para e gestão de estoque, incluindo:
+Para nosso produto MVP, nos concentraremos em fornecer recursos básicos para e gestão de estoque para a empresa, incluindo:
 
 - [x] Cadastro da empresa contratante.
 - [x] Autenticação da empresa contratante.
 - [ ] Dashboard da empresa com:
   - [ ] Gráficos de lucros antes e depois de contratar nosso serviço.
-  - [ ] Gráficos de itens comprados com os melhores preços.
+  - [ ] Os mais vendidos dado o segmento da empresa.
   - [ ] Lucro rendido exclusivamente pela GerencyI.
-  - [ ] Tabela com lista de compras filtrada por dia, semana e mês.
-  - [ ] Dinheiro dentro da plataforma.
-- [ ] Capacidade de realizar novo pedido.
+  - [ ] Tabela com lista de compras filtrada por mês.
+  - [ ] Quantidade gasta em reestoque dentro dquele mês.
+- [ ] Capacidade de enviar um pedido para análise.
 - [ ] Capacidade de abrir reclamação sobre o pedido.
 - [ ] Capacidade de cancelar o pedido.
-- [ ] Realizar depósito para a plataforma.
+- [ ] Realizar pagamento através da plataforma.
 - [ ] Escolher entre meios de pagamento.
-- [ ] Visualizar notas fiscais.
+- [ ] Visualizar/baixar/enviar por email notas fiscais.
+- [ ] Acompanhar status do pedido por meio de notificações.
 
-
- 
+ E para o fornecedor:
+- [ ] Visualizar/baixar/enviar por email notas fiscais.
+- [ ] Ser notificado de novos pedidos e status de pagamento do pedido.
+- [ ] Dashboard do fornecedor contendo:
+  - [ ] podendo ver quanto vendeu através da plataforma dentro do mês específico.
+  - [ ] Os produtos mais vendidos dentro do mês.
+  - [ ] As empresas das quais mais vendeu.
+  - [ ] Lista de pedidos dentro do mês selecionado.
