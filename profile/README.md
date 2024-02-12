@@ -11,6 +11,7 @@ Para nosso produto MVP, nos concentraremos em fornecer recursos básicos para e 
   - [ ] Lucro rendido exclusivamente pela GerencyI.
   - [ ] Tabela com lista de compras filtrada por mês.
   - [ ] Quantidade gasta em reestoque dentro dquele mês.
+- [x] Capacidade de favoritar produto.
 - [ ] Capacidade de enviar um pedido para análise.
 - [ ] Capacidade de abrir reclamação sobre o pedido.
 - [ ] Capacidade de cancelar o pedido.
